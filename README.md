@@ -1,4 +1,4 @@
-![](images/image-white.png)
+![AbsoluteWinter](images/image-white.png)
 
 # 📌 **ABOUT ME**
 
