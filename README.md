@@ -1,6 +1,6 @@
 ![](images/image-white.png)
 
-# **ABOUT ME**
+# :pin: **ABOUT ME**
 
 I'm not a coder or programer.
 
