@@ -1,0 +1,1 @@
+![](images/image-white.png)
