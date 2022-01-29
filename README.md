@@ -3,8 +3,7 @@
 
 # 📌 **ABOUT ME**
 
-I'm not a coder or programer.
-That's all.
+Nothing to see here.
 
 
 # 📌 **MY PUBLIC REPOSITORY**
