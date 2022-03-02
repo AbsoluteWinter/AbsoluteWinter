@@ -30,7 +30,7 @@ Web: https://absolutewinter.github.io/
 <details>
     <summary><strong>Github Detail Analysis</strong></summary>
 
-[![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteWinter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/AbsoluteWinter)
+[![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteWinter&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false)](https://github.com/AbsoluteWinter)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbsoluteWinter&theme=nord&column=7)](https://github.com/AbsoluteWinter)
 
