@@ -23,8 +23,8 @@ Web: https://absolutewinter.github.io/
     <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 <div>
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=AbsoluteWinter&show_icons=true&theme=tokyonight" alt="AbsoluteWinter github status board"  />
-    <img height=160 alt="AbsoluteWinter most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=AbsoluteWinter&theme=react&border=61dafb&hide_border=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=AbsoluteWinter&show_icons=true&theme=swift" alt="AbsoluteWinter github status board"  />
+    <img height=160 alt="AbsoluteWinter most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=AbsoluteWinter&theme=swift&border=61dafb&hide_border=true" />
 <div>
 
 <details>
